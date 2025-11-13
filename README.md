@@ -4,7 +4,7 @@
 To study the problem statement ,SRS document and draw the UML diagram of student online exam registration system .
 
 # SRS (Procedure):
-Create the following diagrams in StarUML:
+Create the following diagrams in StarUML:.
 
 Use Case Diagram
 
